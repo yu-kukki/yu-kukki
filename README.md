@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm yu-kukki</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yu-kukki&label=Profile%20views&color=0e75b6&style=flat" alt="yu-kukki" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yu-kukki" alt="yu-kukki" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kukki_ski" target="blank"><img src="https://img.shields.io/twitter/follow/kukki_ski?logo=twitter&style=for-the-badge" alt="kukki_sky" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kukki_sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kukki_sky" height="30" width="40" /></a>
+  <a href="http://twitter.com/kukki_ski">
+    <img height="20" src="https://img.shields.io/twitter/follow/kukki_ski?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/yu-kukki">
+    <img height="20" src="https://img.shields.io/github/followers/yu-kukki?label=follow&logo=github&style=flat" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
