@@ -7,5 +7,24 @@
   </a>
 </p>
 
+## 自己紹介
+- Hello, I'm yu-kukki
+
+## スキルと経験
+- Python3
+- 機械学習ライブラリ(scikit-learn, PyTorch)の使用経験あり
+
+## 興味のある分野
+- データサイエンス
+- 機械学習
+- 深層学習
+- CS全般
+
+## 取り組んでいること
+- 機械学習に関する勉強会の主催
+
+## 趣味
+- 数学(集合論, 線形代数が得意、現在は幾何学分野を勉強中)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yu-kukki&show_icons=true&locale=en" alt="yu-kukki" /></p>
 
