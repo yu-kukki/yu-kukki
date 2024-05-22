@@ -13,6 +13,7 @@
 ## スキルと経験
 - Python3
 - 機械学習ライブラリ(scikit-learn, PyTorch)の使用経験あり
+- Atcoder 茶
 - 東大GCI 受講中
 
 ## 保有する資格
