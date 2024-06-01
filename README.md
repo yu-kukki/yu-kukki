@@ -31,7 +31,8 @@
 - 機械学習に関する勉強会の主催
 
 ## 趣味
-- 数学(集合論, 線形代数が得意、現在は幾何学分野を勉強中)
+- 数学(集合論, 線形代数)
+- バドミントン(JAIST バドミントンサークル)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yu-kukki&show_icons=true&locale=en" alt="yu-kukki" /></p>
 
