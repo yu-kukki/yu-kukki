@@ -9,6 +9,7 @@
 
 ## スキルと経験
 - Python3
+- BigQuery SQL
 - 機械学習・深層学習ライブラリ(scikit-learn, PyTorch)の使用経験あり
 - Atcoder 茶
 - 東大GCI2024Summer 受講中
